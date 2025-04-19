@@ -22,6 +22,6 @@ A simple Python game where the computer picks a random number and the user has t
 
 | Game Preview |
 |--------------|
-| ![preview](Guessing_game_preview.png) |
+| ![preview](Guessing_game_preview.PNG) |
 
 
